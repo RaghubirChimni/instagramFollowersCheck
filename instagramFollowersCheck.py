@@ -1,6 +1,9 @@
+# Raghubir Chimni
+# Jan 6th, 2022
+
 import json, os
 
-# reading json files
+# reads json files
 f = open('followers.json',)
 followers_data = json.loads(f.read())
 f.close()
