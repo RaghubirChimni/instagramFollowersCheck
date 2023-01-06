@@ -7,4 +7,4 @@ usage:
 2. Download your Instagram data
 3. Clone this repository
 4. Put the followers.json and following.json files in the cloned repository
-5. Run the following command in the terminal: python3 instagram.py
+5. Run the following command in the terminal: python3 instagramFollowersCheck.py
