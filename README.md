@@ -1,5 +1,5 @@
-# instagramNotFollowers
-This Python script outputs a list of people in notFollowingBack.txt that do not follow you back.
+# instagramFollowersCheck
+This Python script checks if people follow you back on Instagram and outputs a list of people in notFollowingBack.txt that do not follow you back.
 
 usage: 
 1. Request your Instagram data
